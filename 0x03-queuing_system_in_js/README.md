@@ -13,15 +13,15 @@ Resources
 
 **Read or watch**:
 
--   [Redis quick start](https://alx-intranet.hbtn.io/rltoken/8xeApIhnxgFZkgn54BiIeA "Redis quick start")
--   [Redis client interface](https://alx-intranet.hbtn.io/rltoken/1rq3ral-3C5O1t67dbGcWg "Redis client interface")
--   [Redis client for Node JS](https://alx-intranet.hbtn.io/rltoken/mRftfl67BrNvl-RM5JQfUA "Redis client for Node JS")
--   [Kue](https://alx-intranet.hbtn.io/rltoken/yTC3Ci2IV2US24xJsBfMgQ "Kue") *deprecated but still use in the industry*
+-   [Redis quick start](https://redis.io/docs/getting-started/ "Redis quick start")
+-   [Redis client interface](https://redis.io/docs/ui/cli/ "Redis client interface")
+-   [Redis client for Node JS](https://github.com/redis/node-redis "Redis client for Node JS")
+-   [Kue](https://github.com/Automattic/kue "Kue") *deprecated but still use in the industry*
 
 Learning Objectives
 -------------------
 
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/7yh7c3Zyy1RyUsdwlfsyDg "explain to anyone"), **without the help of Google**:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/ "explain to anyone"), **without the help of Google**:
 
 -   How to run a Redis server on your machine
 -   How to run simple operations with the Redis client
