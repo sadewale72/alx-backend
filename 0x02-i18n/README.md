@@ -3,7 +3,7 @@
 
 Back-end
 
--   By Emmanuel Turlay, Staff Software Engineer at Cruise
+-   By Adewale Aderoju, Staff Software Engineer at Cruise
 -   Weight: 1
 
 ![image](https://github.com/AsuweRich/alx-backend/assets/106776383/d12d438a-0bc3-414f-b755-4ceb928c1c83)
